@@ -1,7 +1,7 @@
 # Redesign / Reskin of QB Inventory by Kane
 please left me a star OWO
 ## Preview
-![Screenshot 2024-01-21 210146](https://github.com/rohKane/kane-qb-inventory/assets/47999933/423945ee-ac40-49b9-aeea-38dd14c84978)
+![Screenshot 2024-01-22 180312](https://github.com/rohKane/kane-qb-inventory/assets/47999933/d8bd8fe8-0b3b-4fce-b5ac-698eea84e462)
 
 
 # License
