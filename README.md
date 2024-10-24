@@ -1,4 +1,4 @@
-# Redesign / Reskin of QB Inventory by Kane
+# [Pretty much Outdated i guess?]Redesign / Reskin of QB Inventory by Kane
 please left me a star OWO
 ## Preview
 ![Screenshot 2024-01-22 180312](https://github.com/rohKane/kane-qb-inventory/assets/47999933/d8bd8fe8-0b3b-4fce-b5ac-698eea84e462)
